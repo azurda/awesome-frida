@@ -102,6 +102,7 @@ More info [here](http://www.frida.re/).
 * [bagbak](https://github.com/ChiChou/bagbak) - Decrypt apps from AppStore on jailbroken devices. Supports decrypting app extensions.
 * [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
 * [PAPIMonitor](https://github.com/Dado1513/PAPIMonitor) - **P**ython **API** **Monitor** for Android apps is a tool, powered by Frida, to monitor user-selected APIs during app execution.
+* [frida-dump](https://github.com/azurda/frida-dump) - Process memory dumper based on FRIDA and made in TypeScript
 
 <a name="videos" />
 
